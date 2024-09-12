@@ -1,0 +1,71 @@
+.main img{
+    position: relative;
+    display: inline-block;
+    width: 100%;
+}
+
+.para{
+    position: absolute;
+    top: 70%;
+   
+    left: 35%;
+    font-size: 26px;
+    font-weight: 900;
+    color: rgb(249, 234, 234);
+    font-style: italic;
+    font-family: sans-serif;
+}
+
+.part2 h2{
+    color: rgb(231, 231, 55);
+    font-family: sans-serif;
+    text-align: center;
+
+   
+}
+
+.part2 p{
+    font-style: italic;
+    font-weight: 400;
+    font-size: 17px;
+}
+
+.part3 h3{
+    font-family: sans-serif;
+    font-style: italic;
+   text-decoration: underline;
+}
+
+.news img{
+    width: 80%;
+   
+}
+
+.item{
+    text-decoration: none;
+    font-weight: 700;
+    font-style: italic;
+
+}
+
+.serv img{
+    width: 70%;    
+
+}
+
+.copy{
+    font-size: 18px;
+    text-align: center;
+}
+
+.point{
+    cursor: pointer;
+    color: brown;
+}
+
+.sol{
+    background-color: rgb(21, 2, 40);
+   
+    color: white;
+    padding: 80px 30px;
+}
